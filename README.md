@@ -1,0 +1,2 @@
+# jitsi-videobridge
+Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
